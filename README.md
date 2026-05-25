@@ -16,7 +16,7 @@ This project proposes **AMPS-EIS**, a novel firmware orchestration method for se
 
 - Microcontroller technology & architecture
 - Peripheral subsystems (ADC, timer, serial communication)
-- Embedded programming in C/C++ and Rust
+- Embedded programming in C/C++
 - Safety-critical embedded systems
 
 No prior work has integrated all these components into a single, unified firmware stack on this platform.
@@ -127,12 +127,6 @@ AMPS-EIS-STM32/
 - STM32CubeMX 6.11+
 - Keil MDK-ARM µVision 5.38+
 - ARM Compiler 6 (AC6)
-
-**Class 4C (Rust):**
-- Proteus Professional 8.17+
-- Rust toolchain: `rustup target add thumbv7em-none-eabihf`
-- probe-rs: `cargo install probe-rs-tools`
-- Required crates (see `Cargo.toml`): `stm32f4xx-hal`, `cortex-m-rt`, `embedded-hal`
 
 ### Step 1 — Open Proteus Simulation
 
