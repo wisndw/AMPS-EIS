@@ -209,10 +209,10 @@ gnuplot plot_results.gp
 
 ## Authors
 
-- [Nama Mahasiswa 1] — NIM [XXXXXXXX] — Kelas 4B/4C
-- [Nama Mahasiswa 2] — NIM [XXXXXXXX] — Kelas 4B/4C
+- Wisnu Dwipayana — NRP [2042241002] — Kelas 4B
+- Rafif Agung Makarim Putra  — NRP [2042241066] — Kelas 4B
 
-**Supervisor:** [Nama Dosen]  
+**Supervisor:** Ahmad Radhy S.si M.si  
 Program Studi Rekayasa Teknologi Instrumentasi  
 Semester Genap 2025/2026
 
